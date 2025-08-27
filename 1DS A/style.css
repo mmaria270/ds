@@ -1,0 +1,42 @@
+body {
+background-color: khaki;
+
+}
+#naruto{
+    width:930px;
+    display:block;
+    margin: 0 auto;
+}
+h1{
+    font-size: 40px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+    color: darkorange;
+
+}
+p{
+   color: rgb(119, 59, 3);
+   text-align: center;
+    font-size: 30px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+li{
+    color: rgb(146, 71, 0);
+    text-align: center;
+     font-size: 30px;
+     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+ }
+ h2{
+    font-size: 30px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+    color: rgb(240, 144, 27);
+ }
+ #shippuden{
+    width:930px;
+    display:block;
+    margin: 0 auto;
+}
+h2{
+    text-align: center;
+}
